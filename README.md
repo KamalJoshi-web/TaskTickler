@@ -19,7 +19,7 @@ TaskTickler is designed to help you efficiently organize and track your tasks. I
 
 Follow these steps to get TaskTickler up and running on your local machine:
 
-1. Clone the repository: `git clone https://github.com/your-username/tasktickler.git`
+1. Clone the repository: `git clone https://github.com/KamalJoshi-web/tasktickler.git`
 2. Navigate to the project directory: `cd tasktickler`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
